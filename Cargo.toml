@@ -1,5 +1,5 @@
 [package]
-name = "rust-library-project-template"
+name = "precise-time"
 version = "0.1.0"
 edition = "2018"
 

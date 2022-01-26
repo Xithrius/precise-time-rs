@@ -1,2 +1,3 @@
-# rust-library-project-template
-A template for Rust library projects.
+# precise-time-rs
+
+A wide range of converting one metric of time to another.
